@@ -1,0 +1,1 @@
+print("Hello. Ten toi la Tung")
